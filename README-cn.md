@@ -1,29 +1,29 @@
 # Animate.css [![GitHub release](https://img.shields.io/github/release/daneden/animate.css.svg)](https://github.com/daneden/animate.css/releases) [![CDNJS](https://img.shields.io/cdnjs/v/animate.css.svg)](https://cdnjs.com/libraries/animate.css) [![Build Status](https://travis-ci.com/daneden/animate.css.svg?branch=master)](https://travis-ci.com/daneden/animate.css) [![devDependencies Status](https://david-dm.org/daneden/animate.css/dev-status.svg)](https://david-dm.org/daneden/animate.css?type=dev) [![chat](https://img.shields.io/badge/chat-gitter-green.svg)](https://gitter.im/animate-css/Lobby) [![npm version](https://badge.fury.io/js/animate.css.svg)](https://www.npmjs.com/package/animate.css)
 
-> **We need your help!** animate.css v4 is in the work with lots of improvements and some breaking changes, including CSS custom properties support (aka CSS variables) and classes prefix for a safer use. We need **your feedback**! You can follow the development on the [`dev`](https://github.com/daneden/animate.css/tree/dev) branch and give your feedback on the [issue tracker](https://github.com/daneden/animate.css/issues).
-**Every feedback is welcome!**
+> **我们需要您的帮助！** animate.css v4 正在进行许多重大改进, 包括但不限于CSS自定义属性(又称作CSS变量) 还有CSS类前缀为不冲突安全使用。 我们需要**您的反馈**! 你可以Fllow [`dev`](https://github.com/daneden/animate.css/tree/dev) 开发研究分支，然后在 [issue tracker](https://github.com/daneden/animate.css/issues) 反馈。
+**任何反馈我们都欢迎！**
 
-_Just-add-water CSS animation_
+_就只是添加许多CSS动画_
 
-`animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
+`animate.css`是一堆很酷很酷，有趣，并且可以跨浏览器使用的动画集合，供您在您自己的项目中使用。非常适合要强调的部分，网站主页，滑动，和普通的动画效果。
 
 
-## Installation
+## 安装
 
-Install via npm:
+使用NPM安装：
 
 ```bash
 $ npm install animate.css --save
 ```
 
-or yarn:
+或者使用YARN：
 
 ```bash
 $ yarn add animate.css
 ```
 
 
-## Usage
+## 用法
 
 To use animate.css in your website, simply drop the stylesheet into your document's `<head>`, and add the class `animated` to an element, along with any of the animation names. That's it! You've got a CSS animated element. Super!
 
